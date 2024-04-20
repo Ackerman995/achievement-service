@@ -21,10 +21,3 @@
 * В тестах используется [testcontainers](https://testcontainers.com/), в котором тоже запускается отдельный инстанс
   postgres
 * В коде продемонстрирована работа как с JdbcTemplate, так и с JPA (Hibernate)
-
-
-# TODO
-
-* Dockerfile, который подключается к сети запущенной postgres в docker-compose
-* Redis connectivity
-* ...
